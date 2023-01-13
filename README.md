@@ -1,3 +1,3 @@
 # Translator
 ENGLISH: The Translator program is written in the Python programming language. You will find complete information about this program in the menu section of the program. About the program: The program will ask you from which language to translate, you select and enter the text, the program will translate to the language of your choice. You can also change the language of the program.
-........................................................................................................................UZBEK: Translator dastur Python dasturlash tilida yozilgan. Bu dastur haqida to'liq ma'lumotni dasturning menu qismida bilib olasiz. Dastur haqida: Dastur sizdan qaysi tildan, qaysi tilga tarjima qilishligini so'raydi, siz belgilab matn kiritasiz, dastur tanlagan tilingizga tarjima qilib beradi. Dastur tilini ham o'zgartirishingiz mumkin. 
+
